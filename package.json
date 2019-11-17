@@ -21,7 +21,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.6.11",
     "redux-devtools": "^3.5.0",
-    "reest": "^2.88.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
