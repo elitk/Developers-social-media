@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://eli_takele:e27951352@devconnector-hrflu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "affb21012f322d39b6f8",
+    "githubSecret": "05a2685481839571914b301a493acbb6f757f719"
+}
